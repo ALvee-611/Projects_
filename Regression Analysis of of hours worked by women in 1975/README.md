@@ -1,4 +1,7 @@
-The dataset **Hours** is a subset of the 1976 Panel Study of Income Dynamics (PSID) that contains the following 19 variables:
+Regression Analysis of of hours worked by women in 1975
+---
+
+The dataset **reg_data** is a subset of the 1976 Panel Study of Income Dynamics (PSID) that contains the following 19 variables:
 
 * **hours**: Wife's hours of work in 1975.
 * **youngkids**: Number of children less than 6 years old in the household.
@@ -19,3 +22,7 @@ The dataset **Hours** is a subset of the 1976 Panel Study of Income Dynamics (PS
 * **experience**: Actual years of wife's previous labor market experience.
 * **college**: Did the individual attend college?
 * **hcollege**: Did the individual's husband attend college?
+
+In this project, I conducted regression analysis, interpreting coefficients with significance tests, making predictions with confidence intervals. Employed dummy variables and tested equality of coefficients. Utilized J-test and RESET specification test. Discussed measurement errors and proxy variables' effects. Applied Cook's distance for outlier detection and conducted hypothesis testing.
+
+Detailed analysis can be found here: https://alvee-611.github.io/portfolio/Regression_model/
