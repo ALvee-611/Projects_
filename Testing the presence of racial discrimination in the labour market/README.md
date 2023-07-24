@@ -1,4 +1,4 @@
-The dataset **Names** is a subset of the dataset used by M. Bertrand and S. Mullainathan for their research paper "Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labour Market Discrimination", published in 2004 in the American Economic Review. It contains the following 27 variables:
+The dataset **reg_data** is a subset of the dataset used by M. Bertrand and S. Mullainathan for their research paper "Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labour Market Discrimination", published in 2004 in the American Economic Review. It contains the following 27 variables:
 
 * **name**: Factor indicating the applicant's first name.
 * **gender**: Factor indicating gender.
