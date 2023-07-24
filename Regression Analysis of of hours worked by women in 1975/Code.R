@@ -5,7 +5,7 @@ library(car)
 library(margins)
 
 
-load("Data20745516.rda")
+load("reg_data.rda")
 
 PartA<-na.omit(Hours)
 
