@@ -27,3 +27,13 @@ The dataset **reg_data** is a subset of the dataset used by M. Bertrand and S. M
 * **reqcomp**: Does the ad mention some computer skills requirement?
 * **reqorg**: Does the ad mention some organizational skills requirement?
 * **industry**: Factor indicating the type of employer industry.
+
+The purpose of this project is to test the presence of racial discrimination in the labour market. In this project, I formulated 4 different questions related to discrimination and build one model for each question. The questions were:
+
+1. Is discrimination different for people from Boston and Chicago?
+
+2. Is discrimination different for male and female individuals with prior military experience having African-American sounding name?
+
+3. Is the effect of experience on the probability of being called back the same for people provided email address and those that didnot?
+
+4. Is discrimination different for people who mention some volunteering experience VS those that didnot for people applying to EOE?
