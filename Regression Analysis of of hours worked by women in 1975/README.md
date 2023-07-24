@@ -19,5 +19,3 @@ The dataset **Hours** is a subset of the 1976 Panel Study of Income Dynamics (PS
 * **experience**: Actual years of wife's previous labor market experience.
 * **college**: Did the individual attend college?
 * **hcollege**: Did the individual's husband attend college?
-
----
