@@ -40,3 +40,5 @@ The purpose of this project is to test the presence of racial discrimination in 
 3. Is the effect of experience on the probability of being called back the same for people provided email address and those that didnot?
 
 4. Is discrimination different for people who mention some volunteering experience VS those that didnot for people applying to EOE?
+
+A detailed analysis of this can be found here: https://alvee-611.github.io/portfolio/Regression_model_2/
